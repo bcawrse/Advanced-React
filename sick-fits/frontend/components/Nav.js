@@ -7,7 +7,6 @@ export default function Nav() {
       <Link href="/sell">Sell</Link>
       <Link href="/orders">Orders</Link>
       <Link href="/account">Account</Link>
-      <Link href="/cart">Cart</Link>
     </nav>
   );
 }
